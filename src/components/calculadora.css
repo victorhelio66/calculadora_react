@@ -1,0 +1,9 @@
+.calculadora{
+    width: 40% ;
+}
+.btns{
+    background: gray;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

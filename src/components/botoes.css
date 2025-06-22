@@ -1,0 +1,25 @@
+.Botao {
+    min-width: 25%;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(54, 54, 54);
+
+
+}
+
+.Botao_n {
+    min-width: 25%;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(119, 118, 118);
+}
+
+.Botao_I {
+    min-width: 25%;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    background-color: rgb(7, 176, 243);
+}
